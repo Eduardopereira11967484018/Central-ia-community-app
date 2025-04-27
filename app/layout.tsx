@@ -12,7 +12,7 @@ const inter = Inter({ subsets: ["latin"] })
 export const metadata: Metadata = {
   title: "Community App",
   description: "A platform to discover and join communities",
-    generator: 'v0.dev'
+    generator: 'Eduardo Pereira Lima.'
 }
 
 export default function RootLayout({
